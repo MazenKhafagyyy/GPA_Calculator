@@ -3,14 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPA_Calculator", "GPA_Calculator.csproj", "{A47C25F5-15E9-4FC1-A366-6289A70C7550}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GPA_Calculator", "GPA_Calculator.csproj", "{A47C25F5-15E9-4FC1-A366-6289A70C7550}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		App|Any CPU = App|Any CPU
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A47C25F5-15E9-4FC1-A366-6289A70C7550}.App|Any CPU.ActiveCfg = App|Any CPU
+		{A47C25F5-15E9-4FC1-A366-6289A70C7550}.App|Any CPU.Build.0 = App|Any CPU
 		{A47C25F5-15E9-4FC1-A366-6289A70C7550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A47C25F5-15E9-4FC1-A366-6289A70C7550}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A47C25F5-15E9-4FC1-A366-6289A70C7550}.Release|Any CPU.ActiveCfg = Release|Any CPU

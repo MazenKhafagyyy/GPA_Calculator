@@ -63,39 +63,9 @@ namespace GPA_Calculator.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Artist__1_ {
-            get {
-                object obj = ResourceManager.GetObject("Artist (1)", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Chicken_removebg_preview {
-            get {
-                object obj = ResourceManager.GetObject("Chicken-removebg-preview", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap Chicken_removebg_preview1 {
             get {
                 object obj = ResourceManager.GetObject("Chicken-removebg-preview1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap NYAN {
-            get {
-                object obj = ResourceManager.GetObject("NYAN", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

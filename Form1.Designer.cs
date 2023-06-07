@@ -307,7 +307,7 @@
             // pictureBox2
             // 
             pictureBox2.Image = Properties.Resources.NYAN_PC;
-            pictureBox2.Location = new Point(838, 697);
+            pictureBox2.Location = new Point(809, 681);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(277, 177);
             pictureBox2.TabIndex = 26;

@@ -7,7 +7,14 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <ApplicationIcon>Chatgebna.ico</ApplicationIcon>
+    <Configurations>Debug;Release;App</Configurations>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Artist %281%29.png" />
+    <None Remove="Resources\Chicken-removebg-preview.png" />
+    <None Remove="Resources\NYAN.gif" />
+  </ItemGroup>
 
   <ItemGroup>
     <Content Include="Chatgebna.ico" />
